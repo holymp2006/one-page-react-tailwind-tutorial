@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# One Page React Tailwind
+
+Following the video tutorial from https://www.youtube.com/watch?v=ZU-drSVodBw
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
